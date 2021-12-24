@@ -2,6 +2,9 @@
 
 Multidisciplinary data scientist with skills in mathematics, statistics, programming, databases, visualization, classification and prediction models in machine learning.
 
+# Portfolio
+[hola](www.google.com)
+
 # Core Qualifications
 
 <img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-SQL-orange"> | <img src="https://img.shields.io/badge/-Pytorch-lightgrey"> 
