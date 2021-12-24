@@ -2,7 +2,7 @@
 
 Multidisciplinary data scientist with skills in mathematics, statistics, programming, databases, visualization, classification and prediction models in machine learning.
 
-# [Portfolio](https://danieldhats7.github.io/)
+# :briefcase: [Portfolio](https://danieldhats7.github.io/) :computer:
 
 # Core Qualifications
 
