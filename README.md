@@ -9,12 +9,7 @@ Multidisciplinary data scientist with skills in mathematics, statistics, program
 <img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-SQL-orange"> | <img src="https://img.shields.io/badge/-Pytorch-lightgrey"> 
 
 # Languages
-
 <img src="https://img.shields.io/badge/-Spanish-blue"> | <img src="https://img.shields.io/badge/-English_B1-red">
-
-# YouTube Tutorials
-
-
 
 # Contact me
    
