@@ -17,7 +17,7 @@ Multidisciplinary data scientist with skills in mathematics, statistics, program
    
 <a href="https://www.linkedin.com/in/danieldhats7" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="174"></a>  <a href="https://twitter.com/danieldhats7" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="41" width="174"></a>  <a href="https://www.instagram.com/danieldhats_/" target="_blank">
 
-# GitHub Stats
+# :chart_with_upwards_trend: GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldhats7">
  <img src="https://github-readme-stats.vercel.app/api?username=danieldhats7">
